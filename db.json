@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "Teléfono": 55430199,
+      "Nombre": "Niddian Gomez",
+      "Mensaje": "Estimada Señorita "
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
+}
